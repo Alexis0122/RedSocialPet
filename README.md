@@ -47,3 +47,36 @@ Para iniciar el proyecto en un servidor de desarrollo local con HMR, usa el sigu
 
 ```bash
 npm run dev
+```
+Abre (http://localhost:3000) en tu navegador para ver la aplicación en funcionamiento.
+
+## Scripts Disponibles
+En el directorio del proyecto, puedes ejecutar los siguientes scripts:
+
+- npm run dev: Inicia el servidor de desarrollo.
+- npm run build: Construye la aplicación para producción en la carpeta dist.
+- npm run lint: Ejecuta ESLint para revisar el código.
+
+## Contribuir
+Si deseas contribuir al proyecto, sigue estos pasos:
+
+Haz un fork del repositorio.
+- Crea una nueva rama:
+```bash
+git checkout -b feature/nueva-funcionalidad
+```
+- Realiza tus cambios y haz commit:
+```bash
+git commit -m 'Agrega nueva funcionalidad
+```
+- Envía tus cambios a tu repositorio fork:
+```bash
+git push origin feature/nueva-funcionalidad
+```
+Abre un Pull Request en este repositorio.
+
+## Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+## Contacto
+Para cualquier consulta o comentario, por favor contacta a Alexisramirez0122@hotmail.com
