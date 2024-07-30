@@ -4,13 +4,13 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAVPIcvAhbIIyUnjY2IkwQoNom10vjaEDg",
-    authDomain: "my-second-project-7473f.firebaseapp.com",
-    projectId: "my-second-project-7473f",
-    storageBucket: "my-second-project-7473f.appspot.com",
-    messagingSenderId: "591499523312",
-    appId: "1:591499523312:web:dc4e39d9b1562d97623e35",
-    measurementId: "G-N7BWXD4NZT"
+    apiKey: "AIzaSyBZP9kakDaRO-BNRA0c-13Xiv3BTg--jSE",
+    authDomain: "petstagram2-6d194.firebaseapp.com",
+    projectId: "petstagram2-6d194",
+    storageBucket: "petstagram2-6d194.appspot.com",
+    messagingSenderId: "729626404315",
+    appId: "1:729626404315:web:76acf95e5c6a4d9f18f3fe",
+    measurementId: "G-B5JTN6SCC2"
 };
 
 const app = initializeApp(firebaseConfig);
